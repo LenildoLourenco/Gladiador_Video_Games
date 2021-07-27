@@ -15,9 +15,9 @@ Consuming public API data, are more than 500,000 games [RAWG](https://rawg.io/ap
 
 Print of the finished project.
 
-![plot](./assets/images/platforms/projeto5.png)
-![plot](./assets/images/platforms/projeto3.png)
-![plot](./assets/images/platforms/projeto6.png)
+![plot](./src/assets/images/platforms/projeto5.png)
+![plot](./src/assets/images/platforms/projeto3.png)
+![plot](./src/assets/images/platforms/projeto6.png)
 
 ## Code scaffolding
 
