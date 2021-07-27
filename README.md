@@ -4,7 +4,20 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically 
+reload if you change any of the source files.
+
+# API RAWG
+
+Consuming public API data, are more than 500,000 games [RAWG](https://rawg.io/apidocs)
+
+### Preview
+
+Print of the finished project.
+
+![plot](./assets/images/platforms/projeto5.png)
+![plot](./assets/images/platforms/projeto3.png)
+![plot](./assets/images/platforms/projeto6.png)
 
 ## Code scaffolding
 
